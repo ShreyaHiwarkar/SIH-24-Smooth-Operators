@@ -31,6 +31,13 @@ Key objectives:
 
 ---
 
+
+### **Model Architecture** 
+
+
+
+---
+
 ### **Tasks**
 
 🟦 **Problem Understanding & Research**  
