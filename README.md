@@ -33,6 +33,7 @@ Key objectives:
 
 
 ### **Model Architecture** 
+![archiiiiiiiiiiii](https://github.com/user-attachments/assets/f55d53e0-f79a-444e-bb0a-a32462aecae5)
 
 
 ---
