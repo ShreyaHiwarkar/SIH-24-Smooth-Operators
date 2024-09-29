@@ -33,6 +33,7 @@ Key objectives:
 
 
 ### **Model Architecture** 
+![Alt text](archiiiiiiiiiiii.png)
 
 
 
@@ -75,4 +76,3 @@ Key objectives:
 
 🟦 **Future Enhancements**  
    - Explore potential improvements using advanced AI techniques or real-time processing.
-
