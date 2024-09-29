@@ -33,8 +33,6 @@ Key objectives:
 
 
 ### **Model Architecture** 
-![Alt text](archiiiiiiiiiiii.png)
-
 
 
 ---
