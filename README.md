@@ -60,14 +60,15 @@ We factor in the road layout and possible routes the vehicle might take, based o
 Finally, we integrate this solution into the GNSS-based tolling system. The map-matching and AI-ML algorithms provide precise data on whether a vehicle used the highway or service road, ensuring correct tolls are applied. This makes the tolling system more reliable and fair for users.
 
 **Technology Stack:**
-Python (Flask): Used to build the backend, handling map-matching, ML model integration, and API development.
-Node.js/Express.js: Used for frontend server-side scripting and handling user interactions.
-Amazon SageMaker: For training and deploying our machine learning models.
-Kafka: For real-time streaming and handling large-scale GNSS data in real-time.
-PostGIS: For managing geographical data and map processing.
-OpenStreetMap: Provides digital maps for accurate map matching.
-AWS (Amazon Web Services): Handles the cloud infrastructure, ensuring scalable and efficient processing and deployment.
-Scikit-learn and TensorFlow are used for developing and training machine learning models.
+
+1. Python (Flask): Used to build the backend, handling map-matching, ML model integration, and API development.
+2. Node.js/Express.js: Used for frontend server-side scripting and handling user interactions.
+3. Amazon SageMaker: For training and deploying our machine learning models.
+4. Kafka: For real-time streaming and handling large-scale GNSS data in real-time.
+5. PostGIS: For managing geographical data and map processing.
+6. OpenStreetMap: Provides digital maps for accurate map matching.
+7. AWS (Amazon Web Services): Handles the cloud infrastructure, ensuring scalable and efficient processing and deployment.
+8. Scikit-learn and TensorFlow are used for developing and training machine learning models.
 
 ### **Model Architecture** 
 ![archiiiiiiiiiiii](https://github.com/user-attachments/assets/f55d53e0-f79a-444e-bb0a-a32462aecae5)
