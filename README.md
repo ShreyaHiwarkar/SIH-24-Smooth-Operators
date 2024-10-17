@@ -1,11 +1,11 @@
-# SIH-24-Smooth-Operators
+# SIH-2024-Smooth-Operators
 
 
 
 ---
 
-### **Problem Statement Title**  
-**Development of AI-ML Based Map-Matching Algorithm for GNSS-based Tolling**
+### **Problem Statement:**  
+**Development of map-matching algorithm using AI-ML techniques to distinguish vehicular movement on highway and service road**
 
 ---
 
